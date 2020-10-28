@@ -1,0 +1,38 @@
+{
+	"cli": true,
+	"adapterName": "amadeus",
+	"title": "amadeus",
+	"description": "amadeus api integration",
+	"keywords": [
+		"travel",
+		"journey",
+		"api"
+	],
+	"expert": "no",
+	"features": [
+		"adapter"
+	],
+	"adminFeatures": [],
+	"type": "misc-data",
+	"startMode": "daemon",
+	"connectionType": "cloud",
+	"dataSource": "poll",
+	"connectionIndicator": "no",
+	"language": "JavaScript",
+	"tools": [
+		"ESLint",
+		"type checking"
+	],
+	"indentation": "Tab",
+	"quotes": "double",
+	"es6class": "yes",
+	"authorName": "thesnoopy",
+	"authorGithub": "thesnoopy",
+	"authorEmail": "thesnoopy@mailsmart.de",
+	"gitRemoteProtocol": "HTTPS",
+	"gitCommit": "no",
+	"license": "MIT License",
+	"ci": "gh-actions",
+	"dependabot": "no",
+	"creatorVersion": "1.29.1"
+}
